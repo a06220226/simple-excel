@@ -1,0 +1,10 @@
+{
+    "name": "a06220226/simple-excel",
+    "description": "simple csv download",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "PHP":">=5.5"
+    }
+}
